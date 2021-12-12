@@ -1,7 +1,7 @@
 
 # ComfySloth
 
-A table, a chair, a bowl of fruit and a violin; what else does a man need to be happy?
+A table, a chair, a bowl of fruit and a violin; what else does a man need to be happy?  
 checkout this beautiful E-commerce furniture website.
 
 
